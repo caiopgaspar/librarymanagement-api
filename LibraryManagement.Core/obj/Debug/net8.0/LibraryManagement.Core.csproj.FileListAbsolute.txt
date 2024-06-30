@@ -1,0 +1,7 @@
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\obj\Debug\net8.0\LibraryManagement.Core.csproj.AssemblyReference.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\obj\Debug\net8.0\LibraryManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\obj\Debug\net8.0\LibraryManagement.Core.AssemblyInfoInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\obj\Debug\net8.0\LibraryManagement.Core.AssemblyInfo.cs
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\obj\Debug\net8.0\LibraryManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\obj\Debug\net8.0\LibraryManagement.Core.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\obj\Debug\net8.0\LibraryManagement.Core.MvcApplicationPartsAssemblyInfo.cache
