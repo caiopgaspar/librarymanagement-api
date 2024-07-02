@@ -1,0 +1,16 @@
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Infrastructure\bin\Debug\net8.0\LibraryManagement.Infrastructure.deps.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Infrastructure\bin\Debug\net8.0\LibraryManagement.Infrastructure.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Infrastructure\bin\Debug\net8.0\LibraryManagement.Infrastructure.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Infrastructure\bin\Debug\net8.0\LibraryManagement.Core.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Infrastructure\bin\Debug\net8.0\LibraryManagement.Core.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.sourcelink.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryM.7458E269.Up2Date
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Infrastructure\obj\Debug\net8.0\refint\LibraryManagement.Infrastructure.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Infrastructure\obj\Debug\net8.0\ref\LibraryManagement.Infrastructure.dll

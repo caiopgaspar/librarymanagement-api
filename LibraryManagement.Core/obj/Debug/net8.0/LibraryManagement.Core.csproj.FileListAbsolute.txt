@@ -1,7 +1,12 @@
-C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\obj\Debug\net8.0\LibraryManagement.Core.csproj.AssemblyReference.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\bin\Debug\net8.0\LibraryManagement.Core.deps.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\bin\Debug\net8.0\LibraryManagement.Core.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\bin\Debug\net8.0\LibraryManagement.Core.pdb
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\obj\Debug\net8.0\LibraryManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\obj\Debug\net8.0\LibraryManagement.Core.AssemblyInfoInputs.cache
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\obj\Debug\net8.0\LibraryManagement.Core.AssemblyInfo.cs
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\obj\Debug\net8.0\LibraryManagement.Core.csproj.CoreCompileInputs.cache
-C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\obj\Debug\net8.0\LibraryManagement.Core.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\obj\Debug\net8.0\LibraryManagement.Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\obj\Debug\net8.0\LibraryManagement.Core.sourcelink.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\obj\Debug\net8.0\LibraryManagement.Core.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\obj\Debug\net8.0\refint\LibraryManagement.Core.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\obj\Debug\net8.0\LibraryManagement.Core.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\LibraryManagement\LibraryManagement.API\LibraryManagement.Core\obj\Debug\net8.0\ref\LibraryManagement.Core.dll

@@ -1,22 +1,25 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using LibraryManagement.Core.Entities;
+using LibraryManagement.Infrastructure.Persistence;
+
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+
 
 namespace LibraryManagement.API.Controllers
 {
     [Route("api/books")]
     public class BooksController : ControllerBase
     {    
-        private readonly string _id;
-        public BooksController(string id)
+        private readonly BooksDbContext _context;
+        public BooksController(BooksDbContext context)
         {
-            _id = id;
+            _context = context;
         }
 
         [HttpGet]
-        public IActionResult Get(string query)
+        public async Task<ActionResult<IEnumerable<Book>>> GetBooks()
         {
-            // Buscar todos ou filtrar
-
-            return Ok();
-        }
+            return await _context.Books.ToListAsync();
+        }        
     }
 }
