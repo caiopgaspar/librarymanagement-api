@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using LibraryManagement.Core.Entities;
 using System.Collections.Generic;
+using System.Reflection;
 
 namespace LibraryManagement.Infrastructure.Persistence
 {
@@ -11,5 +12,10 @@ namespace LibraryManagement.Infrastructure.Persistence
         }
 
         public DbSet<Book> Books { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+        }
     }
 }
