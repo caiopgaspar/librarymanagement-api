@@ -14,5 +14,6 @@
         public int UserId { get; set; }
         public int BookId { get; set; }
         public DateTime BorrowedOnDate { get; set; }
+        public DateTime ReturnedOnDate { get; set; }
     }
 }

@@ -2,6 +2,10 @@
 {
     public class Book
     {
+        public Book()
+        {           
+        }
+
         public Book(int id, string title, string author, string isbn, int yearOfPublication)
         {
             Id = id;

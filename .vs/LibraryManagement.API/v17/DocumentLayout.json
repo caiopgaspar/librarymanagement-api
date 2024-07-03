@@ -3,20 +3,83 @@
   "WorkspaceRootPath": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|solutionrelative:librarymanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|solutionrelative:librarymanagement.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c-gas\\AppData\\Local\\Temp\\b3cec817-ae51-45cc-92d0-401cee3bb4cf_03devfreela-efcore.zip.4cf\\devfreela-3-modulo5\\DevFreela.Core\\Entities\\Project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c-gas\\AppData\\Local\\Temp\\0960e550-626e-4259-a6ec-d9339a66f940_03devfreela-efcore.zip.940\\devfreela-3-modulo5\\DevFreela.API\\Models\\CreateProjectModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c-gas\\AppData\\Local\\Temp\\a1ff71a9-0335-47e8-960b-ed66adfa8af6_03devfreela-efcore.zip.af6\\devfreela-3-modulo5\\DevFreela.API\\Controllers\\ProjectsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.api\\models\\registernewbookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|solutionrelative:librarymanagement.api\\models\\registernewbookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3A770B-839B-45ED-B077-D929E4D0A5FE}|LibraryManagement.Core\\LibraryManagement.Core.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3A770B-839B-45ED-B077-D929E4D0A5FE}|LibraryManagement.Core\\LibraryManagement.Core.csproj|solutionrelative:librarymanagement.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c-gas\\AppData\\Local\\Temp\\6d3e5380-acd7-4c8f-aab2-2774c83c250c_01devfreela-apis.zip.50c\\devfreela-3-master\\DevFreela.API\\Controllers\\ProjectsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c-gas\\AppData\\Local\\Temp\\898d404e-f170-459a-b348-a7a4b065659b_03devfreela-efcore.zip.59b\\devfreela-3-modulo5\\DevFreela.API\\Models\\CreateUserModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c-gas\\AppData\\Local\\Temp\\f7ae57f2-d4ac-4154-b3ca-859b0166f8a1_03devfreela-efcore.zip.8a1\\devfreela-3-modulo5\\DevFreela.Application\\ViewModels\\ProjectViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c-gas\\AppData\\Local\\Temp\\d4eb12b4-9f95-4e73-96d6-598a1796b433_03devfreela-efcore.zip.433\\devfreela-3-modulo5\\DevFreela.Application\\ViewModels\\ProjectDetailsViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50CEDB13-7FC3-4331-A86C-616CBC6BC728}|LibraryManagement.Infrastructure\\LibraryManagement.Infrastructure.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.infrastructure\\persistence\\booksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50CEDB13-7FC3-4331-A86C-616CBC6BC728}|LibraryManagement.Infrastructure\\LibraryManagement.Infrastructure.csproj|solutionrelative:librarymanagement.infrastructure\\persistence\\booksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|solutionrelative:librarymanagement.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.api\\models\\updatebookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|solutionrelative:librarymanagement.api\\models\\updatebookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.api\\models\\createusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|solutionrelative:librarymanagement.api\\models\\createusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.api\\models\\deletebookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|solutionrelative:librarymanagement.api\\models\\deletebookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.api\\models\\registerloanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|solutionrelative:librarymanagement.api\\models\\registerloanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3A770B-839B-45ED-B077-D929E4D0A5FE}|LibraryManagement.Core\\LibraryManagement.Core.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.core\\enums\\bookstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3A770B-839B-45ED-B077-D929E4D0A5FE}|LibraryManagement.Core\\LibraryManagement.Core.csproj|solutionrelative:librarymanagement.core\\enums\\bookstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.api\\models\\registerreturnmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|solutionrelative:librarymanagement.api\\models\\registerreturnmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3A770B-839B-45ED-B077-D929E4D0A5FE}|LibraryManagement.Core\\LibraryManagement.Core.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.core\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3A770B-839B-45ED-B077-D929E4D0A5FE}|LibraryManagement.Core\\LibraryManagement.Core.csproj|solutionrelative:librarymanagement.core\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c-gas\\AppData\\Local\\Temp\\6c72573f-6ed0-41c3-9771-dda690ba5788_03devfreela-efcore.zip.788\\devfreela-3-modulo5\\DevFreela.Core\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c-gas\\AppData\\Local\\Temp\\f6a16e3f-1355-450c-9dfe-d0c536ac2160_03devfreela-efcore.zip.160\\devfreela-3-modulo5\\DevFreela.Application\\InputModels\\CreateUserInputModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D3A770B-839B-45ED-B077-D929E4D0A5FE}|LibraryManagement.Core\\LibraryManagement.Core.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D3A770B-839B-45ED-B077-D929E4D0A5FE}|LibraryManagement.Core\\LibraryManagement.Core.csproj|solutionrelative:librarymanagement.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|solutionrelative:librarymanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,39 +107,130 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "LibraryManagement.API\\Controllers\\BooksController.cs",
               "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Controllers\\BooksController.cs",
               "RelativeToolTip": "LibraryManagement.API\\Controllers\\BooksController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwDoAAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T18:47:18.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterNewBookModel.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\RegisterNewBookModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.API\\Models\\RegisterNewBookModel.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\RegisterNewBookModel.cs",
+              "RelativeToolTip": "LibraryManagement.API\\Models\\RegisterNewBookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:41:25.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\CreateUserModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.API\\Models\\CreateUserModel.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\CreateUserModel.cs",
+              "RelativeToolTip": "LibraryManagement.API\\Models\\CreateUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:42:33.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateBookModel.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\UpdateBookModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.API\\Models\\UpdateBookModel.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\UpdateBookModel.cs",
+              "RelativeToolTip": "LibraryManagement.API\\Models\\UpdateBookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:43:00.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteBookModel.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\DeleteBookModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.API\\Models\\DeleteBookModel.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\DeleteBookModel.cs",
+              "RelativeToolTip": "LibraryManagement.API\\Models\\DeleteBookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:43:21.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterLoanModel.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\RegisterLoanModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.API\\Models\\RegisterLoanModel.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\RegisterLoanModel.cs",
+              "RelativeToolTip": "LibraryManagement.API\\Models\\RegisterLoanModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:43:59.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterReturnModel.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\RegisterReturnModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.API\\Models\\RegisterReturnModel.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\RegisterReturnModel.cs",
+              "RelativeToolTip": "LibraryManagement.API\\Models\\RegisterReturnModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:44:55.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookStatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Core\\Enums\\BookStatusEnum.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Core\\Enums\\BookStatusEnum.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Core\\Enums\\BookStatusEnum.cs",
+              "RelativeToolTip": "LibraryManagement.Core\\Enums\\BookStatusEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:57:23.323Z",
               "EditorCaption": ""
             }
           ]
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Program.cs",
               "RelativeDocumentMoniker": "LibraryManagement.API\\Program.cs",
               "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Program.cs",
               "RelativeToolTip": "LibraryManagement.API\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACoAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T18:43:44.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "BooksDbContext.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Infrastructure\\Persistence\\BooksDbContext.cs",
               "RelativeDocumentMoniker": "LibraryManagement.Infrastructure\\Persistence\\BooksDbContext.cs",
@@ -89,16 +243,159 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Core\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Core\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Core\\Entities\\Book.cs",
+              "RelativeToolTip": "LibraryManagement.Core\\Entities\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:46:50.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Core\\Entities\\User.cs",
               "RelativeDocumentMoniker": "LibraryManagement.Core\\Entities\\User.cs",
               "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Core\\Entities\\User.cs",
               "RelativeToolTip": "LibraryManagement.Core\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T01:32:22.241Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Core\\Entities\\Loan.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Core\\Entities\\Loan.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Core\\Entities\\Loan.cs",
+              "RelativeToolTip": "LibraryManagement.Core\\Entities\\Loan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:49:00.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateUserInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\AppData\\Local\\Temp\\f6a16e3f-1355-450c-9dfe-d0c536ac2160_03devfreela-efcore.zip.160\\devfreela-3-modulo5\\DevFreela.Application\\InputModels\\CreateUserInputModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\f6a16e3f-1355-450c-9dfe-d0c536ac2160_03devfreela-efcore.zip.160\\devfreela-3-modulo5\\DevFreela.Application\\InputModels\\CreateUserInputModel.cs",
+              "ToolTip": "C:\\Users\\c-gas\\AppData\\Local\\Temp\\f6a16e3f-1355-450c-9dfe-d0c536ac2160_03devfreela-efcore.zip.160\\devfreela-3-modulo5\\DevFreela.Application\\InputModels\\CreateUserInputModel.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\f6a16e3f-1355-450c-9dfe-d0c536ac2160_03devfreela-efcore.zip.160\\devfreela-3-modulo5\\DevFreela.Application\\InputModels\\CreateUserInputModel.cs [Somente Leitura]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:51:27.2Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\AppData\\Local\\Temp\\898d404e-f170-459a-b348-a7a4b065659b_03devfreela-efcore.zip.59b\\devfreela-3-modulo5\\DevFreela.API\\Models\\CreateUserModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\898d404e-f170-459a-b348-a7a4b065659b_03devfreela-efcore.zip.59b\\devfreela-3-modulo5\\DevFreela.API\\Models\\CreateUserModel.cs",
+              "ToolTip": "C:\\Users\\c-gas\\AppData\\Local\\Temp\\898d404e-f170-459a-b348-a7a4b065659b_03devfreela-efcore.zip.59b\\devfreela-3-modulo5\\DevFreela.API\\Models\\CreateUserModel.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\898d404e-f170-459a-b348-a7a4b065659b_03devfreela-efcore.zip.59b\\devfreela-3-modulo5\\DevFreela.API\\Models\\CreateUserModel.cs [Somente Leitura]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:51:40.93Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\AppData\\Local\\Temp\\f7ae57f2-d4ac-4154-b3ca-859b0166f8a1_03devfreela-efcore.zip.8a1\\devfreela-3-modulo5\\DevFreela.Application\\ViewModels\\ProjectViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\f7ae57f2-d4ac-4154-b3ca-859b0166f8a1_03devfreela-efcore.zip.8a1\\devfreela-3-modulo5\\DevFreela.Application\\ViewModels\\ProjectViewModel.cs",
+              "ToolTip": "C:\\Users\\c-gas\\AppData\\Local\\Temp\\f7ae57f2-d4ac-4154-b3ca-859b0166f8a1_03devfreela-efcore.zip.8a1\\devfreela-3-modulo5\\DevFreela.Application\\ViewModels\\ProjectViewModel.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\f7ae57f2-d4ac-4154-b3ca-859b0166f8a1_03devfreela-efcore.zip.8a1\\devfreela-3-modulo5\\DevFreela.Application\\ViewModels\\ProjectViewModel.cs [Somente Leitura]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:52:26.205Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\AppData\\Local\\Temp\\d4eb12b4-9f95-4e73-96d6-598a1796b433_03devfreela-efcore.zip.433\\devfreela-3-modulo5\\DevFreela.Application\\ViewModels\\ProjectDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\d4eb12b4-9f95-4e73-96d6-598a1796b433_03devfreela-efcore.zip.433\\devfreela-3-modulo5\\DevFreela.Application\\ViewModels\\ProjectDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\c-gas\\AppData\\Local\\Temp\\d4eb12b4-9f95-4e73-96d6-598a1796b433_03devfreela-efcore.zip.433\\devfreela-3-modulo5\\DevFreela.Application\\ViewModels\\ProjectDetailsViewModel.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\d4eb12b4-9f95-4e73-96d6-598a1796b433_03devfreela-efcore.zip.433\\devfreela-3-modulo5\\DevFreela.Application\\ViewModels\\ProjectDetailsViewModel.cs [Somente Leitura]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:52:39.028Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\AppData\\Local\\Temp\\b3cec817-ae51-45cc-92d0-401cee3bb4cf_03devfreela-efcore.zip.4cf\\devfreela-3-modulo5\\DevFreela.Core\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\b3cec817-ae51-45cc-92d0-401cee3bb4cf_03devfreela-efcore.zip.4cf\\devfreela-3-modulo5\\DevFreela.Core\\Entities\\Project.cs",
+              "ToolTip": "C:\\Users\\c-gas\\AppData\\Local\\Temp\\b3cec817-ae51-45cc-92d0-401cee3bb4cf_03devfreela-efcore.zip.4cf\\devfreela-3-modulo5\\DevFreela.Core\\Entities\\Project.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\b3cec817-ae51-45cc-92d0-401cee3bb4cf_03devfreela-efcore.zip.4cf\\devfreela-3-modulo5\\DevFreela.Core\\Entities\\Project.cs [Somente Leitura]",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:53:41.744Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\AppData\\Local\\Temp\\6c72573f-6ed0-41c3-9771-dda690ba5788_03devfreela-efcore.zip.788\\devfreela-3-modulo5\\DevFreela.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\6c72573f-6ed0-41c3-9771-dda690ba5788_03devfreela-efcore.zip.788\\devfreela-3-modulo5\\DevFreela.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\c-gas\\AppData\\Local\\Temp\\6c72573f-6ed0-41c3-9771-dda690ba5788_03devfreela-efcore.zip.788\\devfreela-3-modulo5\\DevFreela.Core\\Entities\\User.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\6c72573f-6ed0-41c3-9771-dda690ba5788_03devfreela-efcore.zip.788\\devfreela-3-modulo5\\DevFreela.Core\\Entities\\User.cs [Somente Leitura]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:53:50.05Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\AppData\\Local\\Temp\\a1ff71a9-0335-47e8-960b-ed66adfa8af6_03devfreela-efcore.zip.af6\\devfreela-3-modulo5\\DevFreela.API\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\a1ff71a9-0335-47e8-960b-ed66adfa8af6_03devfreela-efcore.zip.af6\\devfreela-3-modulo5\\DevFreela.API\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\c-gas\\AppData\\Local\\Temp\\a1ff71a9-0335-47e8-960b-ed66adfa8af6_03devfreela-efcore.zip.af6\\devfreela-3-modulo5\\DevFreela.API\\Controllers\\ProjectsController.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\a1ff71a9-0335-47e8-960b-ed66adfa8af6_03devfreela-efcore.zip.af6\\devfreela-3-modulo5\\DevFreela.API\\Controllers\\ProjectsController.cs [Somente Leitura]",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:07:45.636Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProjectModel.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\AppData\\Local\\Temp\\0960e550-626e-4259-a6ec-d9339a66f940_03devfreela-efcore.zip.940\\devfreela-3-modulo5\\DevFreela.API\\Models\\CreateProjectModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\0960e550-626e-4259-a6ec-d9339a66f940_03devfreela-efcore.zip.940\\devfreela-3-modulo5\\DevFreela.API\\Models\\CreateProjectModel.cs",
+              "ToolTip": "C:\\Users\\c-gas\\AppData\\Local\\Temp\\0960e550-626e-4259-a6ec-d9339a66f940_03devfreela-efcore.zip.940\\devfreela-3-modulo5\\DevFreela.API\\Models\\CreateProjectModel.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\0960e550-626e-4259-a6ec-d9339a66f940_03devfreela-efcore.zip.940\\devfreela-3-modulo5\\DevFreela.API\\Models\\CreateProjectModel.cs [Somente Leitura]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:46:42.504Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\AppData\\Local\\Temp\\6d3e5380-acd7-4c8f-aab2-2774c83c250c_01devfreela-apis.zip.50c\\devfreela-3-master\\DevFreela.API\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\6d3e5380-acd7-4c8f-aab2-2774c83c250c_01devfreela-apis.zip.50c\\devfreela-3-master\\DevFreela.API\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\c-gas\\AppData\\Local\\Temp\\6d3e5380-acd7-4c8f-aab2-2774c83c250c_01devfreela-apis.zip.50c\\devfreela-3-master\\DevFreela.API\\Controllers\\ProjectsController.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\6d3e5380-acd7-4c8f-aab2-2774c83c250c_01devfreela-apis.zip.50c\\devfreela-3-master\\DevFreela.API\\Controllers\\ProjectsController.cs [Somente Leitura]",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:52:27.987Z",
+              "EditorCaption": " [Somente Leitura]"
             }
           ]
         }
