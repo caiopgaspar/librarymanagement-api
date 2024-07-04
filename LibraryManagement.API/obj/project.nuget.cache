@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kGPxf6fTBRM=",
+  "dgSpecHash": "+yRbCKz7JYM=",
   "success": true,
   "projectFilePath": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\LibraryManagement.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\c-gas\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\c-gas\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\c-gas\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\c-gas\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\c-gas\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\c-gas\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.5\\microsoft.data.sqlclient.5.1.5.nupkg.sha512",

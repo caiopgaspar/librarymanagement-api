@@ -5,9 +5,11 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryManagement.API", "LibraryManagement.API\LibraryManagement.API.csproj", "{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagement.Core", "LibraryManagement.Core\LibraryManagement.Core.csproj", "{7D3A770B-839B-45ED-B077-D929E4D0A5FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryManagement.Core", "LibraryManagement.Core\LibraryManagement.Core.csproj", "{7D3A770B-839B-45ED-B077-D929E4D0A5FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagement.Infrastructure", "LibraryManagement.Infrastructure\LibraryManagement.Infrastructure.csproj", "{50CEDB13-7FC3-4331-A86C-616CBC6BC728}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryManagement.Infrastructure", "LibraryManagement.Infrastructure\LibraryManagement.Infrastructure.csproj", "{50CEDB13-7FC3-4331-A86C-616CBC6BC728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagement.Application", "LibraryManagement.Application\LibraryManagement.Application.csproj", "{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{50CEDB13-7FC3-4331-A86C-616CBC6BC728}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50CEDB13-7FC3-4331-A86C-616CBC6BC728}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50CEDB13-7FC3-4331-A86C-616CBC6BC728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

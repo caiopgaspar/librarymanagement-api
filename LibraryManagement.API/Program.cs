@@ -1,5 +1,10 @@
+using LibraryManagement.API;
+using LibraryManagement.Application.Commands.RegisterNewBook;
+using LibraryManagement.Core.Repositories;
 using LibraryManagement.Infrastructure.Persistence;
+using LibraryManagement.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,9 +26,18 @@ else
         options.UseSqlServer(connectionString));
 }
 
+builder.Services.AddScoped<IBookRepository, BookRepository>();
+
+
+builder.Services.AddMediatR(config => config.RegisterServicesFromAssemblyContaining<RegisterNewBookCommand>());
+
+
 // Configure Swagger/OpenAPI for API documentation and testing
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "LibraryManagement API", Version = "v1" });
+});
 
 var app = builder.Build();
 
