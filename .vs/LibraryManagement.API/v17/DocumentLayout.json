@@ -7,68 +7,88 @@
       "RelativeMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|solutionrelative:librarymanagement.application\\queries\\getbookbyid\\getbookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50CEDB13-7FC3-4331-A86C-616CBC6BC728}|LibraryManagement.Infrastructure\\LibraryManagement.Infrastructure.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50CEDB13-7FC3-4331-A86C-616CBC6BC728}|LibraryManagement.Infrastructure\\LibraryManagement.Infrastructure.csproj|solutionrelative:librarymanagement.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D3A770B-839B-45ED-B077-D929E4D0A5FE}|LibraryManagement.Core\\LibraryManagement.Core.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.core\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D3A770B-839B-45ED-B077-D929E4D0A5FE}|LibraryManagement.Core\\LibraryManagement.Core.csproj|solutionrelative:librarymanagement.core\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.application\\queries\\getallbooks\\getallbooksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|solutionrelative:librarymanagement.application\\queries\\getallbooks\\getallbooksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.application\\commands\\registernewbook\\registernewbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|solutionrelative:librarymanagement.application\\commands\\registernewbook\\registernewbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.application\\queries\\getbookbyid\\getbookbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|solutionrelative:librarymanagement.application\\queries\\getbookbyid\\getbookbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D3A770B-839B-45ED-B077-D929E4D0A5FE}|LibraryManagement.Core\\LibraryManagement.Core.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D3A770B-839B-45ED-B077-D929E4D0A5FE}|LibraryManagement.Core\\LibraryManagement.Core.csproj|solutionrelative:librarymanagement.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.application\\commands\\deletebook\\deletebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|solutionrelative:librarymanagement.application\\commands\\deletebook\\deletebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D3A770B-839B-45ED-B077-D929E4D0A5FE}|LibraryManagement.Core\\LibraryManagement.Core.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D3A770B-839B-45ED-B077-D929E4D0A5FE}|LibraryManagement.Core\\LibraryManagement.Core.csproj|solutionrelative:librarymanagement.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.application\\commands\\updatebook\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|solutionrelative:librarymanagement.application\\commands\\updatebook\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.application\\commands\\registernewbook\\registernewbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|solutionrelative:librarymanagement.application\\commands\\registernewbook\\registernewbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|solutionrelative:librarymanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.api\\models\\registernewbookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|solutionrelative:librarymanagement.api\\models\\registernewbookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.application\\commands\\updatebook\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|solutionrelative:librarymanagement.application\\commands\\updatebook\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|solutionrelative:librarymanagement.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.application\\queries\\getallusers\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|solutionrelative:librarymanagement.application\\queries\\getallusers\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.application\\commands\\deletebook\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|solutionrelative:librarymanagement.application\\commands\\deletebook\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.application\\queries\\getallbooks\\getallbooksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|solutionrelative:librarymanagement.application\\queries\\getallbooks\\getallbooksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.api\\models\\registerreturnmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|solutionrelative:librarymanagement.api\\models\\registerreturnmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50CEDB13-7FC3-4331-A86C-616CBC6BC728}|LibraryManagement.Infrastructure\\LibraryManagement.Infrastructure.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CEDB13-7FC3-4331-A86C-616CBC6BC728}|LibraryManagement.Infrastructure\\LibraryManagement.Infrastructure.csproj|solutionrelative:librarymanagement.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D3A770B-839B-45ED-B077-D929E4D0A5FE}|LibraryManagement.Core\\LibraryManagement.Core.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.core\\enums\\bookstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D3A770B-839B-45ED-B077-D929E4D0A5FE}|LibraryManagement.Core\\LibraryManagement.Core.csproj|solutionrelative:librarymanagement.core\\enums\\bookstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.application\\queries\\getallbooks\\getallbooksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|solutionrelative:librarymanagement.application\\queries\\getallbooks\\getallbooksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.application\\commands\\registernewbook\\registernewbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|solutionrelative:librarymanagement.application\\commands\\registernewbook\\registernewbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.application\\commands\\registernewbook\\registernewbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|solutionrelative:librarymanagement.application\\commands\\registernewbook\\registernewbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3A770B-839B-45ED-B077-D929E4D0A5FE}|LibraryManagement.Core\\LibraryManagement.Core.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.core\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3A770B-839B-45ED-B077-D929E4D0A5FE}|LibraryManagement.Core\\LibraryManagement.Core.csproj|solutionrelative:librarymanagement.core\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3A770B-839B-45ED-B077-D929E4D0A5FE}|LibraryManagement.Core\\LibraryManagement.Core.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3A770B-839B-45ED-B077-D929E4D0A5FE}|LibraryManagement.Core\\LibraryManagement.Core.csproj|solutionrelative:librarymanagement.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.application\\queries\\getallusers\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|solutionrelative:librarymanagement.application\\queries\\getallusers\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.application\\queries\\getallusers\\getallusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C241E4A-20B7-463B-B9BE-54B90E4C9F80}|LibraryManagement.Application\\LibraryManagement.Application.csproj|solutionrelative:librarymanagement.application\\queries\\getallusers\\getallusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.api\\models\\registernewbookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|solutionrelative:librarymanagement.api\\models\\registernewbookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CEDB13-7FC3-4331-A86C-616CBC6BC728}|LibraryManagement.Infrastructure\\LibraryManagement.Infrastructure.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CEDB13-7FC3-4331-A86C-616CBC6BC728}|LibraryManagement.Infrastructure\\LibraryManagement.Infrastructure.csproj|solutionrelative:librarymanagement.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.api\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|solutionrelative:librarymanagement.api\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CEDB13-7FC3-4331-A86C-616CBC6BC728}|LibraryManagement.Infrastructure\\LibraryManagement.Infrastructure.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.infrastructure\\persistence\\booksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CEDB13-7FC3-4331-A86C-616CBC6BC728}|LibraryManagement.Infrastructure\\LibraryManagement.Infrastructure.csproj|solutionrelative:librarymanagement.infrastructure\\persistence\\booksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|solutionrelative:librarymanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.api\\models\\registerreturnmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|solutionrelative:librarymanagement.api\\models\\registerreturnmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5098AC0B-85BA-4440-AF2F-95A8C2C4199E}|LibraryManagement.API\\LibraryManagement.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\librarymanagement\\librarymanagement.api\\librarymanagement.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -120,37 +140,11 @@
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "LibraryManagement.API\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "LibraryManagement.API\\Controllers\\BooksController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAwwC4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T18:47:18.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RegisterNewBookModel.cs",
-              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\RegisterNewBookModel.cs",
-              "RelativeDocumentMoniker": "LibraryManagement.API\\Models\\RegisterNewBookModel.cs",
-              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\RegisterNewBookModel.cs",
-              "RelativeToolTip": "LibraryManagement.API\\Models\\RegisterNewBookModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T00:41:25.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "RegisterLoanModel.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\RegisterLoanModel.cs",
               "RelativeDocumentMoniker": "LibraryManagement.API\\Models\\RegisterLoanModel.cs",
@@ -162,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "RegisterNewBookCommand.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Commands\\RegisterNewBook\\RegisterNewBookCommand.cs",
               "RelativeDocumentMoniker": "LibraryManagement.Application\\Commands\\RegisterNewBook\\RegisterNewBookCommand.cs",
@@ -175,20 +169,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "GetBookByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Queries\\GetBookById\\GetBookByIdQuery.cs",
               "RelativeDocumentMoniker": "LibraryManagement.Application\\Queries\\GetBookById\\GetBookByIdQuery.cs",
               "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Queries\\GetBookById\\GetBookByIdQuery.cs",
               "RelativeToolTip": "LibraryManagement.Application\\Queries\\GetBookById\\GetBookByIdQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T23:43:39.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "DeleteBookModel.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\DeleteBookModel.cs",
               "RelativeDocumentMoniker": "LibraryManagement.API\\Models\\DeleteBookModel.cs",
@@ -200,7 +194,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 11,
+              "Title": "RegisterNewBookCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Commands\\RegisterNewBook\\RegisterNewBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Application\\Commands\\RegisterNewBook\\RegisterNewBookCommandHandler.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Commands\\RegisterNewBook\\RegisterNewBookCommandHandler.cs",
+              "RelativeToolTip": "LibraryManagement.Application\\Commands\\RegisterNewBook\\RegisterNewBookCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:23:11.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterNewBookModel.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\RegisterNewBookModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.API\\Models\\RegisterNewBookModel.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\RegisterNewBookModel.cs",
+              "RelativeToolTip": "LibraryManagement.API\\Models\\RegisterNewBookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:41:25.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryManagement.API\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswBcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T18:47:18.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "UpdateBookModel.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\UpdateBookModel.cs",
               "RelativeDocumentMoniker": "LibraryManagement.API\\Models\\UpdateBookModel.cs",
@@ -212,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "CreateUserModel.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\CreateUserModel.cs",
               "RelativeDocumentMoniker": "LibraryManagement.API\\Models\\CreateUserModel.cs",
@@ -224,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "RegisterReturnModel.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Models\\RegisterReturnModel.cs",
               "RelativeDocumentMoniker": "LibraryManagement.API\\Models\\RegisterReturnModel.cs",
@@ -236,19 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BookStatusEnum.cs",
-              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Core\\Enums\\BookStatusEnum.cs",
-              "RelativeDocumentMoniker": "LibraryManagement.Core\\Enums\\BookStatusEnum.cs",
-              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Core\\Enums\\BookStatusEnum.cs",
-              "RelativeToolTip": "LibraryManagement.Core\\Enums\\BookStatusEnum.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T00:57:23.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "LoanController.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Controllers\\LoanController.cs",
               "RelativeDocumentMoniker": "LibraryManagement.API\\Controllers\\LoanController.cs",
@@ -256,77 +277,104 @@
               "RelativeToolTip": "LibraryManagement.API\\Controllers\\LoanController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T22:44:35.781Z"
+              "WhenOpened": "2024-07-03T22:44:35.781Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "GetAllBooksQuery.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Queries\\GetAllBooks\\GetAllBooksQuery.cs",
               "RelativeDocumentMoniker": "LibraryManagement.Application\\Queries\\GetAllBooks\\GetAllBooksQuery.cs",
               "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Queries\\GetAllBooks\\GetAllBooksQuery.cs",
               "RelativeToolTip": "LibraryManagement.Application\\Queries\\GetAllBooks\\GetAllBooksQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T23:35:55.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BooksDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Infrastructure\\Persistence\\BooksDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Infrastructure\\Persistence\\BooksDbContext.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Infrastructure\\Persistence\\BooksDbContext.cs",
+              "RelativeToolTip": "LibraryManagement.Infrastructure\\Persistence\\BooksDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:15:23.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllUsersQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Queries\\GetAllUsers\\GetAllUsersQueryHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Application\\Queries\\GetAllUsers\\GetAllUsersQueryHandler.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Queries\\GetAllUsers\\GetAllUsersQueryHandler.cs",
+              "RelativeToolTip": "LibraryManagement.Application\\Queries\\GetAllUsers\\GetAllUsersQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:31:28.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "LibraryManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:33:20.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Commands\\DeleteBook\\DeleteBookCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Application\\Commands\\DeleteBook\\DeleteBookCommand.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Commands\\DeleteBook\\DeleteBookCommand.cs",
+              "RelativeToolTip": "LibraryManagement.Application\\Commands\\DeleteBook\\DeleteBookCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:34:02.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteBookCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Commands\\DeleteBook\\DeleteBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Application\\Commands\\DeleteBook\\DeleteBookCommandHandler.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Commands\\DeleteBook\\DeleteBookCommandHandler.cs",
+              "RelativeToolTip": "LibraryManagement.Application\\Commands\\DeleteBook\\DeleteBookCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:34:12.736Z",
               "EditorCaption": ""
             }
           ]
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetAllBooksQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Queries\\GetAllBooks\\GetAllBooksQueryHandler.cs",
-              "RelativeDocumentMoniker": "LibraryManagement.Application\\Queries\\GetAllBooks\\GetAllBooksQueryHandler.cs",
-              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Queries\\GetAllBooks\\GetAllBooksQueryHandler.cs",
-              "RelativeToolTip": "LibraryManagement.Application\\Queries\\GetAllBooks\\GetAllBooksQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T00:11:57.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Core\\Repositories\\IBookRepository.cs",
               "RelativeDocumentMoniker": "LibraryManagement.Core\\Repositories\\IBookRepository.cs",
               "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Core\\Repositories\\IBookRepository.cs",
               "RelativeToolTip": "LibraryManagement.Core\\Repositories\\IBookRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T00:18:27.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegisterNewBookCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Commands\\RegisterNewBook\\RegisterNewBookCommandHandler.cs",
-              "RelativeDocumentMoniker": "LibraryManagement.Application\\Commands\\RegisterNewBook\\RegisterNewBookCommandHandler.cs",
-              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Commands\\RegisterNewBook\\RegisterNewBookCommandHandler.cs",
-              "RelativeToolTip": "LibraryManagement.Application\\Commands\\RegisterNewBook\\RegisterNewBookCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T22:23:11.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Core\\Entities\\Book.cs",
-              "RelativeDocumentMoniker": "LibraryManagement.Core\\Entities\\Book.cs",
-              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Core\\Entities\\Book.cs",
-              "RelativeToolTip": "LibraryManagement.Core\\Entities\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T00:46:50.171Z",
               "EditorCaption": ""
             },
             {
@@ -337,40 +385,66 @@
               "RelativeDocumentMoniker": "LibraryManagement.Application\\Queries\\GetBookById\\GetBookByIdQueryHandler.cs",
               "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Queries\\GetBookById\\GetBookByIdQueryHandler.cs",
               "RelativeToolTip": "LibraryManagement.Application\\Queries\\GetBookById\\GetBookByIdQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T22:34:07.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "UpdateBookCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Commands\\UpdateBook\\UpdateBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Application\\Commands\\UpdateBook\\UpdateBookCommandHandler.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Commands\\UpdateBook\\UpdateBookCommandHandler.cs",
+              "RelativeToolTip": "LibraryManagement.Application\\Commands\\UpdateBook\\UpdateBookCommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:16:44.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Commands\\UpdateBook\\UpdateBookCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Application\\Commands\\UpdateBook\\UpdateBookCommand.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Commands\\UpdateBook\\UpdateBookCommand.cs",
+              "RelativeToolTip": "LibraryManagement.Application\\Commands\\UpdateBook\\UpdateBookCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:16:34.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Core\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Core\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Core\\Entities\\Book.cs",
+              "RelativeToolTip": "LibraryManagement.Core\\Entities\\Book.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:46:50.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Infrastructure\\Repositories\\BookRepository.cs",
               "RelativeDocumentMoniker": "LibraryManagement.Infrastructure\\Repositories\\BookRepository.cs",
               "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Infrastructure\\Repositories\\BookRepository.cs",
               "RelativeToolTip": "LibraryManagement.Infrastructure\\Repositories\\BookRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwB0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T00:26:59.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Core\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "LibraryManagement.Core\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Core\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "LibraryManagement.Core\\Entities\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T22:30:55.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Program.cs",
               "RelativeDocumentMoniker": "LibraryManagement.API\\Program.cs",
@@ -378,12 +452,24 @@
               "RelativeToolTip": "LibraryManagement.API\\Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAmwB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T18:43:44.28Z",
+              "WhenOpened": "2024-06-30T18:43:44.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllBooksQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Queries\\GetAllBooks\\GetAllBooksQueryHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Application\\Queries\\GetAllBooks\\GetAllBooksQueryHandler.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Queries\\GetAllBooks\\GetAllBooksQueryHandler.cs",
+              "RelativeToolTip": "LibraryManagement.Application\\Queries\\GetAllBooks\\GetAllBooksQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:11:57.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "GetAllUsersQuery.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Application\\Queries\\GetAllUsers\\GetAllUsersQuery.cs",
               "RelativeDocumentMoniker": "LibraryManagement.Application\\Queries\\GetAllUsers\\GetAllUsersQuery.cs",
@@ -396,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "Loan.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Core\\Entities\\Loan.cs",
               "RelativeDocumentMoniker": "LibraryManagement.Core\\Entities\\Loan.cs",
@@ -408,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.Core\\Entities\\User.cs",
               "RelativeDocumentMoniker": "LibraryManagement.Core\\Entities\\User.cs",
@@ -420,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\LibraryManagement\\LibraryManagement.API\\LibraryManagement.API\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "LibraryManagement.API\\Controllers\\UserController.cs",

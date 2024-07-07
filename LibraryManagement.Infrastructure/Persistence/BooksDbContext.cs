@@ -1,6 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
-using LibraryManagement.Core.Entities;
-using System.Collections.Generic;
+﻿using LibraryManagement.Core.Entities;
+using Microsoft.EntityFrameworkCore;
 using System.Reflection;
 
 namespace LibraryManagement.Infrastructure.Persistence

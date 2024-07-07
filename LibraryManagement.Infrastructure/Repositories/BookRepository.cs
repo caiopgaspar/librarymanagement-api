@@ -1,12 +1,8 @@
 ﻿using LibraryManagement.Core.Entities;
+using LibraryManagement.Core.Enums;
 using LibraryManagement.Core.Repositories;
 using LibraryManagement.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LibraryManagement.Infrastructure.Repositories
 {
@@ -20,7 +16,9 @@ namespace LibraryManagement.Infrastructure.Repositories
 
         public async Task<List<Book>> GetAllBooksAsync()
         {
-            return await _dbContext.Books.ToListAsync();
+            return await _dbContext.Books
+                .Where(b => b.Status != BookStatusEnum.BookDeleted)
+                .ToListAsync();
         }
 
         public async Task<Book> GetBookByIdAsync(int id)
@@ -32,6 +30,18 @@ namespace LibraryManagement.Infrastructure.Repositories
         {
             await _dbContext.Books.AddAsync(book);
             await _dbContext.SaveChangesAsync();
+        }
+
+        public async Task SaveChangesAsync()
+        {
+            await _dbContext.SaveChangesAsync();
+        }
+
+        public async Task DeleteBookAsync(Book book)
+        {
+            book.Status = BookStatusEnum.BookDeleted;
+            await _dbContext.SaveChangesAsync();
+
         }
     }
 }
