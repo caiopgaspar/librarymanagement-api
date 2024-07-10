@@ -1,16 +1,19 @@
 ﻿namespace LibraryManagement.Core.Entities
 {
-    public class Loan
+    public class Loan : BaseEntity
     {
-        public Loan(int id, int userId, int bookId, DateTime borrowedOnDate)
+        public Loan()
         {
-            Id = id;
+        }
+
+        public Loan(int userId, int bookId, DateTime borrowedOnDate)
+        {
             UserId = userId;
             BookId = bookId;
             BorrowedOnDate = borrowedOnDate;
         }
 
-        public int Id { get; set; }
+        public Guid IdLoan { get; set; } = Guid.NewGuid();
         public int UserId { get; set; }
         public int BookId { get; set; }
         public DateTime BorrowedOnDate { get; set; }

@@ -2,6 +2,10 @@
 {
     public class User
     {
+        public User(string name, string email)
+        {
+        }
+
         public User(int id, string name, string email)
         {
             Id = id;

@@ -26,7 +26,10 @@ else
         options.UseSqlServer(connectionString));
 }
 
+// Register repositories
 builder.Services.AddScoped<IBookRepository, BookRepository>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<ILoanRepository, LoanRepository>();
 
 
 builder.Services.AddMediatR(config => config.RegisterServicesFromAssemblyContaining<RegisterNewBookCommand>());
