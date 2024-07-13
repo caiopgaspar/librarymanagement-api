@@ -1,6 +1,7 @@
 ﻿using LibraryManagement.Core.Entities;
 using LibraryManagement.Core.Repositories;
 using MediatR;
+using System.Data;
 
 namespace LibraryManagement.Application.Commands.CreateUser
 {
@@ -13,8 +14,12 @@ namespace LibraryManagement.Application.Commands.CreateUser
         }
         public async Task<int> Handle(CreateUserCommand request, CancellationToken cancellationToken)
         {
-            var user = new User(request.Name, request.Email);
-
+            var user = new User
+            {
+                Name = request.Name,
+                Email = request.Email
+            };
+            
             await _userRepository.CreateUserAsync(user);
 
             return user.Id;

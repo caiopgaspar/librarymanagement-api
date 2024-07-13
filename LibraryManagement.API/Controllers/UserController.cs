@@ -36,7 +36,7 @@ namespace LibraryManagement.API.Controllers
             return Ok(user);
         }
 
-        [HttpGet("{name}")]
+        [HttpGet("byname/{name}")]
         public async Task<IActionResult> GetUserByName(string name)
         {
             var getUserByName = new GetUserByNameQuery(name);

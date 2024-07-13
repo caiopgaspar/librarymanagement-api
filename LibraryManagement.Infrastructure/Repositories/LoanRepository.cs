@@ -18,10 +18,28 @@ namespace LibraryManagement.Infrastructure.Repositories
                 .ToListAsync();
         }
 
+        public async Task<Loan> GetLoanByIdAsync(Guid loanId)
+        {
+            return await _dbContext.Loans.SingleOrDefaultAsync(l => l.IdLoan == loanId);
+        }
+
         public async Task RegisterLoanAsync(Loan loan)
         {
             await _dbContext.Loans.AddAsync(loan);
             await _dbContext.SaveChangesAsync();
+        }
+
+        public async Task RegisterReturnAsync(Guid loanId)
+        {
+            var loan = await GetLoanByIdAsync(loanId);
+            if (loan == null)
+            {
+                throw new ArgumentException("Loan not found");
+            }
+
+            loan.RegisterReturn();
+
+            await SaveChangesAsync();
         }
 
         public async Task SaveChangesAsync()
