@@ -8,7 +8,7 @@ namespace LibraryManagement.Core.Repositories
         
         Task RegisterNewBookAsync(Book book);
 
-        Task<Book> GetBookByIdAsync(int id);
+        Task<Book?> GetBookByIdAsync(int id);
 
         Task SaveChangesAsync();
         Task DeleteBookAsync(Book book);

@@ -1,5 +1,4 @@
 ﻿using LibraryManagement.Application.ViewModels;
-using LibraryManagement.Core.Enums;
 using LibraryManagement.Core.Repositories;
 using MediatR;
 
@@ -16,11 +15,7 @@ namespace LibraryManagement.Application.Queries.GetBookById
         {
             var book = await _bookRepository.GetBookByIdAsync(request.Id);
 
-            if (book == null) return null;
-            if (book.Status == BookStatusEnum.BookDeleted)
-            {
-                throw new Exception("The book was deleted.");
-            }
+            if (book == null) return null;  //padrão result          
                         
             var booksViewModel = new BookViewModel(book.Id, book.Title, book.Author, book.Isbn, book.YearOfPublication);
 

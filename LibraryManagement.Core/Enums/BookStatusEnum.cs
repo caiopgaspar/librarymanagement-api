@@ -5,6 +5,6 @@
         BookInTheLibrary = 0,
         BookBorrowed = 1,
         BookWithLateLoan = 2,
-        BookDeleted = 3
+        BookDeleted = 3 //Cancelado
     }
 }

@@ -1,4 +1,3 @@
-using LibraryManagement.API;
 using LibraryManagement.Application.Commands.RegisterNewBook;
 using LibraryManagement.Core.Repositories;
 using LibraryManagement.Infrastructure.Persistence;

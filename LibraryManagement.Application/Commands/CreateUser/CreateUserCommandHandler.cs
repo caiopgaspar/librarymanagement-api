@@ -1,7 +1,6 @@
 ﻿using LibraryManagement.Core.Entities;
 using LibraryManagement.Core.Repositories;
 using MediatR;
-using System.Data;
 
 namespace LibraryManagement.Application.Commands.CreateUser
 {
@@ -14,6 +13,18 @@ namespace LibraryManagement.Application.Commands.CreateUser
         }
         public async Task<int> Handle(CreateUserCommand request, CancellationToken cancellationToken)
         {
+            var existingUserByName = await _userRepository.GetUserByNameAsync(request.Name);
+            if (existingUserByName != null)
+            {
+                throw new ArgumentException("A user with the same name already exists.");
+            }
+
+            var existingUserByEmail = await _userRepository.GetUserByEmailAsync(request.Email);
+            if (existingUserByEmail != null)
+            {
+                throw new ArgumentException("A user with the same email already exists.");
+            }
+
             var user = new User
             {
                 Name = request.Name,

@@ -21,9 +21,9 @@ namespace LibraryManagement.Infrastructure.Repositories
                 .ToListAsync();
         }
 
-        public async Task<Book> GetBookByIdAsync(int id)
+        public async Task<Book?> GetBookByIdAsync(int id)
         {
-            return await _dbContext.Books.SingleOrDefaultAsync(b => b.Id == id);
+            return await _dbContext.Books.SingleOrDefaultAsync(b => b.Id == id && b.Status != BookStatusEnum.BookDeleted);
         }
 
         public async Task RegisterNewBookAsync(Book book)

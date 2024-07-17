@@ -1,5 +1,4 @@
-﻿using LibraryManagement.Core.Entities;
-using LibraryManagement.Core.Enums;
+﻿using LibraryManagement.Core.Enums;
 using LibraryManagement.Core.Repositories;
 using MediatR;
 
@@ -16,7 +15,7 @@ namespace LibraryManagement.Application.Commands.RegisterReturn
         {
             var loan = await _loanRepository.GetLoanByIdAsync(request.LoanId);
 
-            if (loan.Status != LoanStatusEnum.Active || loan.Status == null)
+            if (loan.Status != LoanStatusEnum.Active || loan.Status == null || loan == null)
             {
                 throw new ArgumentException("Loan not found");
             }

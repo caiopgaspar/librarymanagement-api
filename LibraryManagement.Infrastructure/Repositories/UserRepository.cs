@@ -25,6 +25,11 @@ namespace LibraryManagement.Infrastructure.Repositories
                 .ToListAsync();
         }
 
+        public async Task<User> GetUserByEmailAsync(string email)
+        {
+            return await _dbContext.Users.SingleOrDefaultAsync(u => u.Email == email);
+        }
+
         public async Task<User> GetUserByIdAsync(int id)
         {
             //return await _dbContext.Users.FindAsync(id);
