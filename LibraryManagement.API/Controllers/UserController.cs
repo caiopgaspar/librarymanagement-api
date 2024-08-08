@@ -1,7 +1,8 @@
 ﻿using LibraryManagement.Application.Commands.CreateUser;
+using LibraryManagement.Application.Commands.UpdateUser;
 using LibraryManagement.Application.Queries.GetAllUsers;
 using LibraryManagement.Application.Queries.GetUserById;
-using LibraryManagement.Application.Queries.GetUserByName;
+using LibraryManagement.Application.Queries.GetUserByEmail;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -36,21 +37,35 @@ namespace LibraryManagement.API.Controllers
             return Ok(user);
         }
 
-        [HttpGet("byname/{name}")]
-        public async Task<IActionResult> GetUserByName(string name)
+        [HttpGet("{email}")]
+        public async Task<IActionResult> GetUserByEmail(string email)
         {
-            var getUserByName = new GetUserByNameQuery(name);
+            var getUserByEmail = new GetUserByEmailQuery(email);
 
-            var user = await _mediator.Send(getUserByName);
+            var user = await _mediator.Send(getUserByEmail);
 
             return Ok(user);
         }
 
-        [HttpPost("createuser")]
-        public async Task<IActionResult> CreateUsers([FromBody] CreateUserCommand command)
+        [HttpPost("create")]
+        public async Task<IActionResult> CreateUser([FromBody] CreateUserCommand command)
         {
             var id = await _mediator.Send(command);
-            return CreatedAtAction(nameof(CreateUsers), new { id }, command);
+            return CreatedAtAction(nameof(CreateUser), new { id }, command);
+        }
+
+        [HttpPut("update/{id}")]
+        public async Task<IActionResult> UpdateUser([FromBody] UpdateUserCommand command)
+        {
+            try
+            {
+                await _mediator.Send(command);
+                return NoContent();
+            }
+            catch (KeyNotFoundException)
+            {
+                return NotFound();
+            }
         }
     }
 }

@@ -9,5 +9,6 @@ namespace LibraryManagement.Core.Repositories
         Task<User> GetUserByIdAsync(int id);
         Task<User> GetUserByNameAsync(string name);
         Task<User> GetUserByEmailAsync(string email);
+        Task SaveChangesAsync();
     }
 }

@@ -40,5 +40,10 @@ namespace LibraryManagement.Infrastructure.Repositories
         {
             return await _dbContext.Users.SingleOrDefaultAsync(u => u.Name == name);
         }
+
+        public async Task SaveChangesAsync()
+        {
+            await _dbContext.SaveChangesAsync();
+        }
     }
 }
