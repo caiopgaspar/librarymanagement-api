@@ -16,9 +16,10 @@ namespace LibraryManagement.Core.Entities
             Status = LoanStatusEnum.Active;
         }
 
-        public Guid IdLoan { get; set; } = Guid.NewGuid();
         public int UserId { get; set; }
+        public User User { get; set; }
         public int BookId { get; set; }
+        public Book Book { get; set; }
         public DateTime BorrowedOnDate { get; set; }
         public DateTime? ReturnedOnDate { get; set; }
         public LoanStatusEnum Status { get; set; }

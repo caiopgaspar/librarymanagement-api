@@ -8,7 +8,7 @@ namespace LibraryManagement.Core.Repositories
         //Task<Loan> GetLoanByUser(User user);
         Task RegisterLoanAsync(Loan loan);
         Task SaveChangesAsync();
-        Task RegisterReturnAsync(Guid loanId);
-        Task<Loan> GetLoanByIdAsync(Guid loanId);
+        Task RegisterReturnAsync(int loanId);
+        Task<Loan> GetLoanByIdAsync(int loanId);
     }
 }

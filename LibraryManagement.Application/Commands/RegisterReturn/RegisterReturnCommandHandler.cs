@@ -4,14 +4,14 @@ using MediatR;
 
 namespace LibraryManagement.Application.Commands.RegisterReturn
 {
-    public class RegisterReturnCommandHandler : IRequestHandler<RegisterReturnCommand, Guid>
+    public class RegisterReturnCommandHandler : IRequestHandler<RegisterReturnCommand, int>
     {
         private readonly ILoanRepository _loanRepository;
         public RegisterReturnCommandHandler(ILoanRepository loanRepository)
         {
             _loanRepository = loanRepository;
         }
-        public async Task<Guid> Handle(RegisterReturnCommand request, CancellationToken cancellationToken)
+        public async Task<int> Handle(RegisterReturnCommand request, CancellationToken cancellationToken)
         {
             var loan = await _loanRepository.GetLoanByIdAsync(request.LoanId);
 
@@ -23,7 +23,7 @@ namespace LibraryManagement.Application.Commands.RegisterReturn
             loan.RegisterReturn();
             await _loanRepository.RegisterLoanAsync(loan);
             
-            return loan.IdLoan;
+            return loan.Id;
         }
     }
 }

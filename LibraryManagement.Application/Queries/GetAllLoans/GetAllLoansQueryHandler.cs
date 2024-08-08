@@ -17,7 +17,7 @@ namespace LibraryManagement.Application.Queries.GetAllLoans
 
             var loansViewModel = loans
                 .Select(l => new LoanViewModel(
-                    l.IdLoan,
+                    l.Id,
                     l.UserId,
                     l.BookId,
                     l.BorrowedOnDate,

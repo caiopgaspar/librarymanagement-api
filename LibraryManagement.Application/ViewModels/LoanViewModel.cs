@@ -13,7 +13,7 @@ namespace LibraryManagement.Application.ViewModels
         {            
         }
 
-        public LoanViewModel(Guid idLoan, int userId, int bookId, DateTime borrowedOnDate, DateTime? returnedOnDate, LoanStatusEnum status)
+        public LoanViewModel(int idLoan, int userId, int bookId, DateTime borrowedOnDate, DateTime? returnedOnDate, LoanStatusEnum status)
         {
             IdLoan = idLoan;
             UserId = userId;
@@ -23,7 +23,7 @@ namespace LibraryManagement.Application.ViewModels
             Status = status;
         }
 
-        public Guid IdLoan { get; set; } = Guid.NewGuid();
+        public int IdLoan { get; set; }
         public int UserId { get; set; }
         public int BookId { get; set; }
         public DateTime BorrowedOnDate { get; set; }

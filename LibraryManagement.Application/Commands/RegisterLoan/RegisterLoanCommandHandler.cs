@@ -5,7 +5,7 @@ using MediatR;
 
 namespace LibraryManagement.Application.Commands.RegisterLoan
 {
-    internal class RegisterLoanCommandHandler : IRequestHandler<RegisterLoanCommand, Guid>
+    internal class RegisterLoanCommandHandler : IRequestHandler<RegisterLoanCommand, int>
     {
         private readonly ILoanRepository _loanRepository;
         private readonly IUserRepository _userRepository;
@@ -16,7 +16,7 @@ namespace LibraryManagement.Application.Commands.RegisterLoan
             _userRepository = userRepository;
             _bookRepository = bookRepository;
         }
-        public async Task<Guid> Handle(RegisterLoanCommand request, CancellationToken cancellationToken)
+        public async Task<int> Handle(RegisterLoanCommand request, CancellationToken cancellationToken)
         {
             var book = await _bookRepository.GetBookByIdAsync(request.BookId);
             if (book == null || book.Status != BookStatusEnum.BookInTheLibrary)
@@ -39,7 +39,7 @@ namespace LibraryManagement.Application.Commands.RegisterLoan
 
             await _loanRepository.RegisterLoanAsync(loan);
 
-            return loan.IdLoan;
+            return loan.Id;
         }
     }
 }

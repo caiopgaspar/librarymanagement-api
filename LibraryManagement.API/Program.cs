@@ -11,19 +11,19 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 
 // Configure the database based on the environment (development or production)
-if (builder.Environment.IsDevelopment())
-{
-    // Use in-memory database for development environment
-    builder.Services.AddDbContext<BooksDbContext>(options =>
-        options.UseInMemoryDatabase("BooksDb"));
-}
-else
-{
+//if (builder.Environment.IsDevelopment())
+//{
+//    // Use in-memory database for development environment
+//    builder.Services.AddDbContext<BooksDbContext>(options =>
+//        options.UseInMemoryDatabase("BooksDb"));
+//}
+//else
+//{
     // Use SQL Server for production environment
     var connectionString = builder.Configuration.GetConnectionString("LibraryManagementCs");
     builder.Services.AddDbContext<BooksDbContext>(options =>
         options.UseSqlServer(connectionString));
-}
+//}
 
 // Register repositories
 builder.Services.AddScoped<IBookRepository, BookRepository>();

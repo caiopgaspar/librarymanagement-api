@@ -16,6 +16,7 @@
         public int Id { get; set; }
         public string Name { get; set; }
         public string Email { get; set; }
+        public List<Loan> Loans { get; set; }
 
 
         public void UpdateUser(string name, string email)

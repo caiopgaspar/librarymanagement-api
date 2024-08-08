@@ -18,9 +18,9 @@ namespace LibraryManagement.Infrastructure.Repositories
                 .ToListAsync();
         }
 
-        public async Task<Loan> GetLoanByIdAsync(Guid loanId)
+        public async Task<Loan> GetLoanByIdAsync(int loanId)
         {
-            return await _dbContext.Loans.SingleOrDefaultAsync(l => l.IdLoan == loanId);
+            return await _dbContext.Loans.SingleOrDefaultAsync(l => l.Id == loanId);
         }
 
         public async Task RegisterLoanAsync(Loan loan)
@@ -29,7 +29,7 @@ namespace LibraryManagement.Infrastructure.Repositories
             await _dbContext.SaveChangesAsync();
         }
 
-        public async Task RegisterReturnAsync(Guid loanId)
+        public async Task RegisterReturnAsync(int loanId)
         {
             var loan = await GetLoanByIdAsync(loanId);
             if (loan == null)

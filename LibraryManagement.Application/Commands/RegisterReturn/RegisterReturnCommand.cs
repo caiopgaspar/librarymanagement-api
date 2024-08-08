@@ -2,8 +2,8 @@
 
 namespace LibraryManagement.Application.Commands.RegisterReturn
 {
-    public class RegisterReturnCommand : IRequest<Guid>
+    public class RegisterReturnCommand : IRequest<int>
     {
-        public Guid LoanId { get; set; }
+        public int LoanId { get; set; }
     }
 }

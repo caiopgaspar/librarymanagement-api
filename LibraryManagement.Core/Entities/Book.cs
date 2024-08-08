@@ -23,6 +23,7 @@ namespace LibraryManagement.Core.Entities
         public string Author { get; set; }
         public string Isbn { get; set; }
         public int YearOfPublication { get; set; }
+        public List<Loan> Loans { get; set; }
 
         public BookStatusEnum  Status { get; set; }
         public DateTime? RegisteredAt { get; private set; }
